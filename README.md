@@ -1,5 +1,4 @@
 # merge-test
 
 
-add 1 content main change
-main change2
+add 1 content  bug fixed
